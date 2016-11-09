@@ -2,7 +2,9 @@
 * { margin:0; padding:0; }
 
 html { background:#fff; font-family:trebuchet ms, candara, sans-serif; font-size:62.5%; }
-
+body {
+    background: red;
+}
 
 #wrapper { margin:30px auto 250px auto; width:890px; border:solid 1px #ccc; padding:30px; background:#efefef; }
 
